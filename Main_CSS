@@ -71,8 +71,9 @@ background: #423f3e;
 color: #FC9;
 }
 #forums .forum_header .forum_title {
-font-size: 21px;
+font-size: 24px;
 font-family: arial;
+padding: 6px 0px;
 }
 form#search dt input {
 float: right;
